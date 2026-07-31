@@ -31,31 +31,32 @@ clearly indicates that it is running in demo mode.
 <table>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/home.png" alt="Movie home screen" width="210"><br>
+      <img src="docs/screenshots/home.png" alt="Movie home screen" width="280"><br>
       <sub><strong>Home</strong></sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/cast-grid.png" alt="Cast grid" width="210"><br>
+      <img src="docs/screenshots/cast-grid.png" alt="Cast grid" width="280"><br>
       <sub><strong>Cast</strong></sub>
-    </td>
-    <td align="center">
-      <img src="docs/screenshots/person-detail.png" alt="Person biography" width="210"><br>
-      <sub><strong>Person Details</strong></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/media.png" alt="Trailer cards" width="210"><br>
+      <img src="docs/screenshots/person-detail.png" alt="Tom Holland biography" width="280"><br>
+      <sub><strong>Tom Holland Details</strong></sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/sadie-sink-detail.png" alt="Sadie Sink profile" width="280"><br>
+      <sub><strong>Sadie Sink Details</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/media.png" alt="Trailer cards" width="280"><br>
       <sub><strong>Trailers</strong></sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/backdrop-gallery.png" alt="Backdrop gallery" width="210"><br>
+      <img src="docs/screenshots/backdrop-gallery.png" alt="Backdrop gallery" width="280"><br>
       <sub><strong>Backdrop Gallery</strong></sub>
-    </td>
-    <td align="center">
-      <strong>Live TMDb content</strong><br><br>
-      Movie details, cast profiles, landscape YouTube thumbnails, and the full
-      backdrop collection are loaded dynamically.
     </td>
   </tr>
 </table>
@@ -138,31 +139,32 @@ Token，仍可使用已查核的展示資料啟動，首頁也會清楚標示目
 <table>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/home.png" alt="電影首頁" width="210"><br>
+      <img src="docs/screenshots/home.png" alt="電影首頁" width="280"><br>
       <sub><strong>電影首頁</strong></sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/cast-grid.png" alt="演員陣容" width="210"><br>
+      <img src="docs/screenshots/cast-grid.png" alt="演員陣容" width="280"><br>
       <sub><strong>演員陣容</strong></sub>
-    </td>
-    <td align="center">
-      <img src="docs/screenshots/person-detail.png" alt="人物詳細資料" width="210"><br>
-      <sub><strong>人物詳細資料</strong></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/media.png" alt="正式預告" width="210"><br>
+      <img src="docs/screenshots/person-detail.png" alt="湯姆・霍蘭德人物頁" width="280"><br>
+      <sub><strong>湯姆・霍蘭德人物頁</strong></sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/sadie-sink-detail.png" alt="薩迪・辛克人物頁" width="280"><br>
+      <sub><strong>薩迪・辛克人物頁</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/media.png" alt="正式預告" width="280"><br>
       <sub><strong>正式預告</strong></sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/backdrop-gallery.png" alt="完整劇照" width="210"><br>
+      <img src="docs/screenshots/backdrop-gallery.png" alt="完整劇照" width="280"><br>
       <sub><strong>完整劇照</strong></sub>
-    </td>
-    <td align="center">
-      <strong>TMDb 即時內容</strong><br><br>
-      電影資料、人物頁面、橫式 YouTube 縮圖與完整 backdrop 劇照皆由 API
-      動態載入。
     </td>
   </tr>
 </table>
