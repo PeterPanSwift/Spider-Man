@@ -1,21 +1,14 @@
-//
-//  ContentView.swift
-//  Spider Man
-//
-//  Created by SHIH-YING PAN on 2026/7/30.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @State private var store = MovieStore()
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        AppTabView(store: store)
+            .task {
+                await store.loadIfNeeded()
+            }
+            .preferredColorScheme(.dark)
     }
 }
 

@@ -1,0 +1,6 @@
+// Safe defaults committed with the project.
+// The optional local file overrides this value when it exists.
+TMDB_READ_ACCESS_TOKEN =
+
+#include? "Secrets.xcconfig"
+
